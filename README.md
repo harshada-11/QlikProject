@@ -15,3 +15,6 @@
 
 **Deployment:** QlikSense Desktop
 
+## Skills 
+Qlik Sense, QVD, ETL, Data Modelling, Set Analysis, KPIs, Data Cleaning, Healthcare Analytics
+
