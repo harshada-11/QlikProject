@@ -7,8 +7,8 @@
 
 ## ✨ Features
 **1:** Built an interactive dashboard to analyze patient costs, treatment categories, and hospital stay patterns.
--   **2:** Designed ETL workflows, QVD files, and optimized data models for efficient reporting.
--   **3:** Applied advanced Set Analysis, drill-downs, KPIs, and calculated fields to deliver cost trend insights and resource utilization reports.
+**2:** Designed ETL workflows, QVD files, and optimized data models for efficient reporting.
+**3:** Applied advanced Set Analysis, drill-downs, KPIs, and calculated fields to deliver cost trend insights and resource utilization reports.
 
 ## 🛠️ Tech Stack
 
