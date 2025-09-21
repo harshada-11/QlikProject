@@ -6,8 +6,7 @@
 <img width="1920" height="801" alt="PCA_GeoAnalytics" src="https://github.com/user-attachments/assets/3afc9273-da0b-4ce9-af20-b07a6fcdf669" />
 
 ## ✨ Features
-
--   **1:** Built an interactive dashboard to analyze patient costs, treatment categories, and hospital stay patterns.
+**1:** Built an interactive dashboard to analyze patient costs, treatment categories, and hospital stay patterns.
 -   **2:** Designed ETL workflows, QVD files, and optimized data models for efficient reporting.
 -   **3:** Applied advanced Set Analysis, drill-downs, KPIs, and calculated fields to deliver cost trend insights and resource utilization reports.
 
